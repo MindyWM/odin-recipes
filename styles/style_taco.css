@@ -22,18 +22,18 @@ body{
     text-align:left;
     font-size: 15px;
     font-style: italic;
-    background-color: #F6FF42;
-}
-.Lista{
-    background-color:#F6FF42;
 }
 div{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 color: #193673;
-}
-.instrucciones{
     background-color:#F6FF42;
 }
+.instrucciones, .Lista{ /**/
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 button{
     background-color:#FFE940;
     font-size: 20px;
