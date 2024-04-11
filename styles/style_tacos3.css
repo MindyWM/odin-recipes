@@ -1,0 +1,45 @@
+h1{
+    background-color: #FFC47D;
+    color: #193673;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+}
+body{
+    background-color: #FFFC97;
+}
+.titulo2{
+    text-align:left;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    color:black;
+   background-color: #FFE940;
+   font-weight: bolder;
+}
+.parrafo2{
+    text-align:left;
+    font-size: 15px;
+    font-style: italic;
+    background-color: #F6FF42;
+}
+.Lista{
+    background-color:#F6FF42;
+}
+div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: #193673;
+}
+.instrucciones{
+    background-color:#F6FF42;
+}
+button{
+    background-color:#FFE940;
+    font-size: 20px;
+    
+}
+
+h2{
+    background-color:#FFE940;
+}

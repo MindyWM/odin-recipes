@@ -1,5 +1,20 @@
+
+body{
+    background-color:#FFE2C4;
+}
 h1{
-    color:blueviolet;
-    font-size: 40px;
+    color:#193673;
+    font-size: 60px;
     font-weight: bolder;
+    text-align: center;
+}
+.background{
+    background-color:#FFC6AE;
+
+}
+li{
+    font-size: 40px;
+ color: #1D438A;
+ font-style: italic;
+ text-decoration: none;
 }
